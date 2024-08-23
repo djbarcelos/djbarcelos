@@ -7,11 +7,12 @@
 
 ## Meu nome é Diogo Jorge
 
-Sou formado em Analise e Desenvolvimento de Sistemas, com passagem no curso de Sistema de Informação, apaixonado por React e JavaScript e com experiência em NodeJs, MongoDB e outras.
+Sou formado em Análise e Desenvolvimento de Sistemas, com experiência em diversas tecnologias de desenvolvimento, incluindo React, JavaScript, Node.js e MongoDB. Tenho um forte interesse em criar soluções inovadoras e funcionais, sempre buscando novos desafios e oportunidades para crescimento.
 
-Sempre em busca de um desafios e oportunidades para crescimento. Sinta-se à vontade para explorar meus repositórios e entrar em contato para colaborações!
+Explore meus repositórios para conhecer melhor meu trabalho e sinta-se à vontade para entrar em contato para possíveis colaborações!
 
-Minhas principais habilidades são:
+Minhas principais habilidades:
+
 - JavaScript
 - ReactJS
 - Typescript
@@ -51,14 +52,3 @@ Minhas principais habilidades são:
   <a href = "mailto:diogobarcelos94@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diogojorgegrijobarcelos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-<br>
-
-## 🛠️ **Aviso Importante: Renovação de Portfólio - 01/08/2024**
-
-    Olá! Estou atualmente renovando meu portfólio e trabalhando em novas atualizações para melhorar a apresentação e a funcionalidade dos meus projetos.
-
-    Durante este período, você pode notar que algumas seções estão em manutenção ou que os projetos podem estar temporariamente indisponíveis. Peço desculpas por qualquer inconveniente e agradeço pela compreensão.
-
-    Fique à vontade para explorar o que já está disponível e, se tiver alguma pergunta ou quiser discutir uma possível colaboração, sinta-se à vontade para entrar em contato!
-
