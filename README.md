@@ -1,6 +1,7 @@
 ## Olá!<br>
 <div style="display:inline">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djbarcelos&layout=compact&theme=dracula" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=djbarcelos&show_icons=true&theme=dark&hide=issues,contribs#gh-dark-mode-only"/> -->
 </div>
 
 <br>
