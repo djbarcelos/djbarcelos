@@ -72,9 +72,3 @@ I specialize in microservices architecture, distributed systems, and building re
 - Distributed tracing and observability improvements
 - Continuous architectural refinement
 
----
-
-## Contact
-
-- Email: diogobarcelos94@gmail.com  
-- LinkedIn: linkedin.com/in/diogojorgegrijobarcelos
