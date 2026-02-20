@@ -1,27 +1,49 @@
-# 👋 Hi, I'm [Seu Nome]
+# 👋 Hi, I'm Diogo Jorge
 
-Senior Software Engineer focused on building scalable and resilient systems.
-
-## 🚀 What I do
-- 🏗️ Microservices Architecture
-- ☁️ Cloud-Native Systems (AWS)
-- ⚡ Event-Driven Systems
-- 🤖 AI Integrations & Automation
-- 🧠 Backend with Node.js & Go
-
-## 🛠️ Tech Stack
-- AWS (Lambda, ECS, SQS, SNS, DynamoDB)
-- Node.js (NestJS, Express)
-- Go (APIs & High-performance services)
-- Docker & Kubernetes
-- PostgreSQL & NoSQL
-- CI/CD & Infrastructure as Code
-
-## 📌 Current Focus
-- Distributed Systems Design
-- Performance & Scalability
-- AI-powered systems integration
+Senior Software Engineer focused on building scalable, distributed and cloud-native systems.
 
 ---
 
-📫 Let’s connect: [LinkedIn](https://linkedin.com/in/seulink)
+## 🏗️ What I Work With
+
+- Microservices Architecture
+- Event-Driven Systems
+- Cloud-Native Applications (AWS)
+- Distributed Systems Design
+- AI Integrations & Automation
+
+---
+
+## 🛠️ Core Stack
+
+**Backend**
+- Node.js (NestJS)
+- Go (high-performance APIs)
+- REST & Message-Driven architectures
+
+**Cloud & DevOps**
+- AWS (Lambda, ECS, SQS, SNS, DynamoDB)
+- Docker
+- CI/CD Pipelines
+- Infrastructure as Code
+
+**Databases**
+- PostgreSQL
+- MongoDB
+- Redis
+
+---
+
+## 🎯 Current Focus
+
+- Designing resilient distributed systems
+- Improving performance and scalability
+- AI-powered backend integrations
+- Software Architecture best practices
+
+---
+
+## 📫 Contact
+
+- Email: diogobarcelos94@gmail.com
+- LinkedIn: https://www.linkedin.com/in/diogojorgegrijobarcelos/
