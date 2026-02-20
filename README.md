@@ -1,49 +1,80 @@
-# 👋 Hi, I'm Diogo Jorge
+# Diogo Jorge
 
-Senior Software Engineer focused on building scalable, distributed and cloud-native systems.
+Senior Software Engineer focused on designing scalable, high-performance backend systems.
+
+I specialize in microservices architecture, distributed systems, and building resilient services that operate efficiently under load. My work centers on performance optimization, system scalability, and long-term maintainability.
 
 ---
 
-## 🏗️ What I Work With
+## Engineering Expertise
 
-- Microservices Architecture
-- Event-Driven Systems
-- Cloud-Native Applications (AWS)
+- Microservices Architecture & Service Decomposition
 - Distributed Systems Design
-- AI Integrations & Automation
+- High-Performance API Development
+- Horizontal & Vertical Scaling Strategies
+- Event-Driven Systems
+- Resilience & Fault Tolerance Patterns
+- System Observability & Monitoring
+- Performance Profiling & Optimization
 
 ---
 
-## 🛠️ Core Stack
+## Core Stack
 
-**Backend**
+### Backend
 - Node.js (NestJS)
-- Go (high-performance APIs)
-- REST & Message-Driven architectures
+- Go
+- RESTful APIs
+- Event-Driven Architectures
 
-**Cloud & DevOps**
-- AWS (Lambda, ECS, SQS, SNS, DynamoDB)
-- Docker
-- CI/CD Pipelines
-- Infrastructure as Code
-
-**Databases**
+### Data & Performance
 - PostgreSQL
 - MongoDB
-- Redis
+- Redis (caching strategies)
+- Query optimization & indexing strategies
+- Data modeling for scalability
+
+### Infrastructure & Tooling
+- Docker
+- Message brokers (SQS / Kafka patterns)
+- CI/CD pipelines
+- Service containerization
+- Logging & monitoring practices
 
 ---
 
-## 🎯 Current Focus
+## Engineering Principles
 
-- Designing resilient distributed systems
-- Improving performance and scalability
-- AI-powered backend integrations
-- Software Architecture best practices
+- Design services with clear boundaries and minimal coupling
+- Optimize critical paths based on measurable data
+- Prioritize reliability before feature velocity
+- Treat scalability as a design requirement, not a future fix
+- Favor simplicity over unnecessary abstraction
+- Write systems that remain understandable as they grow
 
 ---
 
-## 📫 Contact
+## Selected Work & Technical Contributions
 
-- Email: diogobarcelos94@gmail.com
-- LinkedIn: https://www.linkedin.com/in/diogojorgegrijobarcelos/
+- Designed and structured microservices-based systems with independent scaling strategies
+- Improved API response times through query optimization and caching strategies
+- Refactored tightly coupled services into decoupled, maintainable architectures
+- Implemented event-driven communication patterns to reduce synchronous bottlenecks
+- Applied performance profiling to eliminate system hotspots
+
+---
+
+## Current Technical Interests
+
+- Advanced concurrency patterns
+- Performance benchmarking and load testing
+- Service-to-service communication optimization
+- Distributed tracing and observability improvements
+- Continuous architectural refinement
+
+---
+
+## Contact
+
+- Email: diogobarcelos94@gmail.com  
+- LinkedIn: linkedin.com/in/diogojorgegrijobarcelos
